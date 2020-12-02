@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Day05.Main",
+            "projectName": "2018_9991095"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Day04.Main",
+            "projectName": "2018_9991095"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "test.Main",
+            "projectName": "2018_9991095"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Day03.Main",
+            "projectName": "2018_9991095"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<2018_9991095>",
+            "request": "launch",
+            "mainClass": "Day01.Main",
+            "projectName": "2018_9991095"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<2018_9991095>(1)",
+            "request": "launch",
+            "mainClass": "Day02.Main",
+            "projectName": "2018_9991095"
+        }
+    ]
+}
