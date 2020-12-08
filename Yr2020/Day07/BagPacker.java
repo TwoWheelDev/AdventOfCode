@@ -21,7 +21,6 @@ public class BagPacker {
         int numBags = 1;
 
         for (Map.Entry<String, Integer> entry : parent.getChildren().entrySet()) {
-            //System.out.println(entry.getKey() + "/" + entry.getValue());
             int someNum = getBags(this.bagMap.get(entry.getKey()));
             numBags += someNum * entry.getValue();
         }
