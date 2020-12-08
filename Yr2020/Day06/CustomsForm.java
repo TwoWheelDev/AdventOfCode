@@ -26,6 +26,7 @@ public class CustomsForm {
         return sum;
     }
 
+    @SuppressWarnings("unchecked")
     public int runPart2(List<String> input) {
         List<List<String>> groups = new ArrayList<>();
 
